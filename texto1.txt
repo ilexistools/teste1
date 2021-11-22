@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 A eleição ocorreu sem problemas .
+=======
+A/ART eleição/NOM ocorreu/VER sem/PREP problemas/NOM ./PU
+>>>>>>> 0520519b2790e936aa479a999c22f7f9b957296c
