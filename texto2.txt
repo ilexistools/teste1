@@ -1,1 +1,1 @@
-O/ART candidato/N venceu/V em/PREP primeiro/ADJ turno/N ./PU
+O/ART candidato/NOM venceu/VER em/PREP primeiro/ADJ turno/NOM ./PU
