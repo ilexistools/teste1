@@ -1,1 +1,1 @@
-A/ART eleição/N ocorreu/V sem/PREP problemas/N ./PU
+A/ART eleição/NOM ocorreu/VER sem/PREP problemas/NOM ./PU
